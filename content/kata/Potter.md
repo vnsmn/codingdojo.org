@@ -4,7 +4,7 @@ draft: false
 date: "2011-02-28T23:06:00"
 aliases:
   - "/KataPotter"
-
+ 
 ---
     If you want to try this Kata for yourself or at your dojo meeting, read
 the problem description and see if the Kata appeals to you. The rest is
